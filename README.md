@@ -6,7 +6,7 @@
 
 Here's the screenshot of the Dashboard:
 
-![App Screenshot](assets/preview.png)
+![App Screenshot](assets/preview0.png)
 
 ## 📈 Executive Summary
 
